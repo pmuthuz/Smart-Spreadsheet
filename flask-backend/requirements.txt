@@ -1,0 +1,10 @@
+pandas
+flask
+openai
+python-dotenv
+langchain
+langchain_experimental
+langchain_openai
+openpyxl
+tabulate
+flask-cors
