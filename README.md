@@ -1,3 +1,15 @@
+#Solution
+
+##Run the below commands
+docker-compose build
+docker-compose up
+
+Flask app runs on http://localhost:5001
+React app runs on http://localhost:80
+Nginx acts as a proxy.
+
+I use the model - gpt-3.5-turbo. Please add the API key at ./flask-back-end/.env.
+
 # Smart Spreadsheet
 
 ## Introduction
